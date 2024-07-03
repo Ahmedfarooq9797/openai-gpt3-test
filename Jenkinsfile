@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Clone repository') {
             steps {
-                git 'https://github.com/your-username/your-repo.git'
+                git 'https://github.com/Ahmedfarooq9797/openai-gpt3-test.git'
             }
         }
 
